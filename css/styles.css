@@ -1,0 +1,42 @@
+.main-content {font-family: 'Lato', sans-serif;}
+
+.super-title {
+    font-size: 4em;
+    font-weight: 100;
+    font-family: 'Francois One', sans-serif;
+}
+
+.logo {
+    margin-top: 15px;
+}
+
+.article-title {
+    font-size: 2em;
+    font-weight: 400;
+}
+
+.round-corners {
+    border-radius: 10px;
+}
+
+.article-margin {
+    margin-bottom: 20px;
+}
+
+hr {
+    border: none;
+    height: 4px;
+    color: #51247a;
+    background-color: #51247a;
+    }
+
+h2 {
+    font-family: 'Francois One', sans-serif;
+    color: #9575CD;
+}
+
+.center-within {
+    margin-left: auto;
+    margin-right: auto;
+    float: none;
+}
